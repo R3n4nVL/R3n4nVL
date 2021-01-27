@@ -1,6 +1,6 @@
 ### Hello !!!! 👋
 
-Hi! My name is Renan, I'm from Brazil 🇧🇷 and i'm graduate computer engineering . Nowadays I'm looking for a work experience in order to put all the thing i learned and learn more.
+Hi! My name is Renan, I'm from Brazil 🇧🇷 and i'm graduate computer engineering . Nowadays I'm looking for a work experience in order to put all the things i learned and learn more.
 
 i like to solving problems and enjoy challenger exercise because just that way i will get better 💪🏅🎯.
  
