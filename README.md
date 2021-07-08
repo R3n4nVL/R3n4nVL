@@ -6,7 +6,7 @@ i like to solving problems and enjoy challenger exercise because just that way i
  
 >  📍     Local:  Espirito Santo 
 
->🟡Level:   Bengineer (Python and Java)
+>🟡Level:   Bengineer (Python and C)
 
 > 👨‍💻 Sharing some pieces of my journey until the complete knowledge
 
