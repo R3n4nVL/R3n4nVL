@@ -10,9 +10,10 @@ i like to solving problems and enjoy challenger exercise because just that way i
 
 > 👨‍💻 Sharing some pieces of my journey until the complete knowledge
 
-<p align="center">
+Techonolgies:
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,git" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux" />
   </a>
 </p>
 
