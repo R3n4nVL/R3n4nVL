@@ -13,7 +13,7 @@ i like to solving problems and enjoy challenger exercise because just that way i
 Techonolgies:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,windows,powershell" />
   </a>
 </p>
 
